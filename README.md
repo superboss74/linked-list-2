@@ -82,6 +82,6 @@ ruby linked_list_3.rb
 ## Credits
 
 * [The tortoise and the hare - Cycle detection with the help of Aesop’s fables](https://mitchellkember.com/blog/post/tortoise-and-hare/)
-* [Detecting a Loop in Singly Linked List - Tortoise & Hare](https://codingfreak.blogspot.com/2012/09/detecting-loop-in-singly-linked-list_22.html)
+* [Detecting a Loop in Singly Linked List - Tortoise and Hare](https://codingfreak.blogspot.com/2012/09/detecting-loop-in-singly-linked-list_22.html)
 * [Wikipedia - Cycle detection, Floyd's Tortoise and Hare](https://en.wikipedia.org/wiki/Cycle_detection#Floyd.27s_Tortoise_and_Hare)
 * [Wikipedia - Cycle (graph theory) - Cycle Detection](https://en.wikipedia.org/wiki/Cycle_(graph_theory)#Cycle_detection)
