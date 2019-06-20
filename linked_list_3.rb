@@ -30,7 +30,5 @@ node2 = LinkedListNode.new(99, node1)
 node3 = LinkedListNode.new(12, node2)
 
 puts infinite_loop?(node3)
-
-# These statement will create the infinity loop
 node1.next_node = node3
 puts infinite_loop?(node3)
